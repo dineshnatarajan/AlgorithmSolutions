@@ -10,6 +10,7 @@ namespace AlgorithmSolutions
     {
         static void Main(string[] args)
         {
+            //test
         }
     }
 }
